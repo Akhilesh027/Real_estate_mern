@@ -1,0 +1,17 @@
+.projects-container {
+  display: flex;
+  height: 100vh;
+}
+
+.sidebar-container {
+  width: 250px; /* Same as Tailwind w-64 (16rem) */
+  background-color: #1e3a8a; /* Dark blue */
+  color: white;
+}
+
+.content-container {
+  flex: 1;
+  overflow: auto;
+  background-color: #f9fafb; /* Light gray */
+  padding: 1rem;
+}

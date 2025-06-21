@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "Dullapally {100ACRES}",
+    "date": "23rd Dec, 2024",
+    "rdoContact": "9849903825",
+    "collector": "Medchal",
+    "status": "Active",
+    "link": "/dullapally",
+    "lat": 17.5387,
+    "lng": 78.4583
+  },
+  {
+    "id": 2,
+    "title": "Janwada",
+    "date": "23rd Dec, 2024",
+    "rdoContact": "9849904207",
+    "collector": "Narayan Reddy (R.R.Dist.)",
+    "status": "Active",
+    "link": "/janwada",
+    "lat": 17.3881,
+    "lng": 78.2504
+  },
+  {
+    "id": 3,
+    "title": "Kokapet Heights",
+    "date": "23rd Dec, 2024",
+    "rdoContact": "9849903825",
+    "collector": "Sir. M.N. Harinadraprasad",
+    "status": "Active",
+    "link": "/kokapet-heights",
+    "lat": 17.3951,
+    "lng": 78.3419
+  },
+  {
+    "id": 4,
+    "title": "Shamirpet Greens",
+    "date": "24th Dec, 2024",
+    "rdoContact": "9849912345",
+    "collector": "A. Veerender Rao",
+    "status": "Pending",
+    "link": "/shamirpet",
+    "lat": 17.5917,
+    "lng": 78.5626
+  },
+  {
+    "id": 5,
+    "title": "Adibatla Vision",
+    "date": "24th Dec, 2024",
+    "rdoContact": "9849909988",
+    "collector": "Smt. Revathi",
+    "status": "Completed",
+    "link": "/adibatla",
+    "lat": 17.2534,
+    "lng": 78.5805
+  },
+  {
+    "id": 6,
+    "title": "Bachupally Skies",
+    "date": "25th Dec, 2024",
+    "rdoContact": "9849901122",
+    "collector": "S. Srinivas Goud",
+    "status": "Active",
+    "link": "/bachupally",
+    "lat": 17.5439,
+    "lng": 78.3646
+  },
+  {
+    "id": 7,
+    "title": "Tellapur Prime",
+    "date": "25th Dec, 2024",
+    "rdoContact": "9849904433",
+    "collector": "L. Chandra Shekar",
+    "status": "Pending",
+    "link": "/tellapur",
+    "lat": 17.4432,
+    "lng": 78.3057
+  },
+  {
+    "id": 8,
+    "title": "Ghatkesar Meadows",
+    "date": "26th Dec, 2024",
+    "rdoContact": "9849905566",
+    "collector": "T. Rajeshwar Reddy",
+    "status": "Active",
+    "link": "/ghatkesar",
+    "lat": 17.4477,
+    "lng": 78.6855
+  },
+  {
+    "id": 9,
+    "title": "Patancheru Smart City",
+    "date": "26th Dec, 2024",
+    "rdoContact": "9849907788",
+    "collector": "Dr. R. Sudha",
+    "status": "Completed",
+    "link": "/patancheru",
+    "lat": 17.5316,
+    "lng": 78.2647
+  },
+  {
+    "id": 10,
+    "title": "Mokila Eco Habitat",
+    "date": "27th Dec, 2024",
+    "rdoContact": "9849908899",
+    "collector": "M. Anil Kumar",
+    "status": "Pending",
+    "link": "/mokila",
+    "lat": 17.3857,
+    "lng": 78.2718
+  }
+]
